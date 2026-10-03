@@ -8,7 +8,7 @@ and every participant is an equal peer.
 Built on the [NostrP2P library](https://github.com/HommelWater/Bombus/tree/p2p)
 from the Bombus `p2p` branch.
 
-**Live at <https://smonnnn.github.io/RooKoo/>**
+**Live at <https://hommelwater.github.io/RooKoo/>**
 
 ## Features
 
